@@ -23,10 +23,6 @@
 - 🛡️ **Security & Roles** (GRANT, REVOKE, User Management)
 - 🌎 **Real-World Examples**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsvabzItJZlDRfW/giphy.gif" width="200" />
-</p>
-
 
 ## Overview 
 
