@@ -1,0 +1,2 @@
+# In a file called .gitattributes at the root of your repo
+*.sql linguist-language=SQL
