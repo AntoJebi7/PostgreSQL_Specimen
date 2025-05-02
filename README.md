@@ -1,4 +1,4 @@
-# 🐘 PostgreSQL_Specimen
+# 🐘 SQL_Specimen
 
 > 🎯 **Your Ultimate Resource for Mastering PostgreSQL & SQL Operations**  
 > 🚀 _Learn concepts, practice operations, and see real-world examples._
